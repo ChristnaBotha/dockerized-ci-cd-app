@@ -1,0 +1,23 @@
+{
+  "name": "dockerized-ci-cd-app",
+  "version": "1.0.0",
+  "description": "A Dockerized application with a CI/CD pipeline using GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristnaBotha/dockerized-ci-cd-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristnaBotha/dockerized-ci-cd-app/issues"
+  },
+  "homepage": "https://github.com/ChristnaBotha/dockerized-ci-cd-app#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
